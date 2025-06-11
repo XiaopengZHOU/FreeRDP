@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3CIcSi/p0bw=",
+  "success": true,
+  "projectFilePath": "D:\\a\\FreeRDP\\FreeRDP\\build\\tzextract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\runneradmin\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
